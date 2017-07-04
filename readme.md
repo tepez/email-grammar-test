@@ -73,4 +73,4 @@ Or null - to turn off the validation for that domain.
 
 MIT © [tepez](https://tepez.co.il)
 
-Based on [https://github.com/mailgun/flanker](mailgun/flanker).
+Based on [mailgun/flanker](https://github.com/mailgun/flanker).
