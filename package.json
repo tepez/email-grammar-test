@@ -1,0 +1,25 @@
+{
+  "name": "email-grammar-test",
+  "version": "0.1.0",
+  "description": "",
+  "main": "lib/validate.js",
+  "scripts": {
+    "test": "node spec/runSpecs.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tepez/email-grammar-test.git"
+  },
+  "author": "Tom Tepez Yam <tomyam@tepez.co.il> (https://github.com/tepez)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tepez/email-grammar-test/issues"
+  },
+  "homepage": "https://github.com/tepez/email-grammar-test#readme",
+  "devDependencies": {
+    "jasmine": "^2.6.0",
+    "jasmine-reporters": "^2.2.1",
+    "jasmine-spec-reporter": "^4.1.1",
+    "lodash": "^4.17.4"
+  }
+}
